@@ -27,7 +27,7 @@ demand model. Built with a `rich` console UI for readable, step-by-step output.
 ## 📦 What's included
 
 ```
-EDA-DataPreprocessing/
+eda-data-preprocessing/
 ├── robust_data_preprocessing.py            # The end-to-end pipeline
 ├── electricity_demand_analysis.ipynb       # Notebook walkthrough of the EDA
 ├── processed_electricity_weather_data.csv  # Cleaned, merged output
